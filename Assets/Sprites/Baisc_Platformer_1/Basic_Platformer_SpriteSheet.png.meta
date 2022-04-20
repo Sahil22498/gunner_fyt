@@ -1,0 +1,2408 @@
+fileFormatVersion: 2
+guid: fc215229ca2afda4a889cba2a849b31b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5698926935225617178
+    second: Basic_Platformer_SpriteSheet_0
+  - first:
+      213: 5495566453294551497
+    second: Basic_Platformer_SpriteSheet_1
+  - first:
+      213: -7361076972281165079
+    second: Basic_Platformer_SpriteSheet_2
+  - first:
+      213: -8475554865251020250
+    second: Basic_Platformer_SpriteSheet_3
+  - first:
+      213: -4345038764974641187
+    second: Basic_Platformer_SpriteSheet_4
+  - first:
+      213: -7139086231996090132
+    second: Basic_Platformer_SpriteSheet_5
+  - first:
+      213: 1730845326817495415
+    second: Basic_Platformer_SpriteSheet_6
+  - first:
+      213: -7377180662760937805
+    second: Basic_Platformer_SpriteSheet_7
+  - first:
+      213: -3379161532064018003
+    second: Basic_Platformer_SpriteSheet_8
+  - first:
+      213: 2096539455777472217
+    second: Basic_Platformer_SpriteSheet_9
+  - first:
+      213: -1632596088338763152
+    second: Basic_Platformer_SpriteSheet_10
+  - first:
+      213: -5298389514185282185
+    second: Basic_Platformer_SpriteSheet_11
+  - first:
+      213: -4634805027255538208
+    second: Basic_Platformer_SpriteSheet_12
+  - first:
+      213: 1600090428420378646
+    second: Basic_Platformer_SpriteSheet_13
+  - first:
+      213: 199843677917165241
+    second: Basic_Platformer_SpriteSheet_14
+  - first:
+      213: 253715223482978202
+    second: Basic_Platformer_SpriteSheet_15
+  - first:
+      213: -1456590885007327747
+    second: Basic_Platformer_SpriteSheet_16
+  - first:
+      213: -8383765951588495531
+    second: Basic_Platformer_SpriteSheet_17
+  - first:
+      213: -3987263083443984122
+    second: Basic_Platformer_SpriteSheet_18
+  - first:
+      213: 3680726052834075843
+    second: Basic_Platformer_SpriteSheet_19
+  - first:
+      213: -7304889660966060908
+    second: Basic_Platformer_SpriteSheet_20
+  - first:
+      213: 6899528392338184752
+    second: Basic_Platformer_SpriteSheet_21
+  - first:
+      213: -4064662743626087010
+    second: Basic_Platformer_SpriteSheet_22
+  - first:
+      213: -2052898680119984784
+    second: Basic_Platformer_SpriteSheet_23
+  - first:
+      213: -7737728108306793259
+    second: Basic_Platformer_SpriteSheet_24
+  - first:
+      213: 8949504596519835233
+    second: Basic_Platformer_SpriteSheet_25
+  - first:
+      213: 5032404289095242271
+    second: Basic_Platformer_SpriteSheet_26
+  - first:
+      213: 1318615912977683585
+    second: Basic_Platformer_SpriteSheet_27
+  - first:
+      213: 399367324267405495
+    second: Basic_Platformer_SpriteSheet_28
+  - first:
+      213: -6728471563600676262
+    second: Basic_Platformer_SpriteSheet_29
+  - first:
+      213: -7116524069497351184
+    second: Basic_Platformer_SpriteSheet_30
+  - first:
+      213: -2293490783545430348
+    second: Basic_Platformer_SpriteSheet_31
+  - first:
+      213: 6390032783357515643
+    second: Basic_Platformer_SpriteSheet_32
+  - first:
+      213: -1764907316274584641
+    second: Basic_Platformer_SpriteSheet_33
+  - first:
+      213: -2556854785164294365
+    second: Basic_Platformer_SpriteSheet_34
+  - first:
+      213: -7632798519850478880
+    second: Basic_Platformer_SpriteSheet_35
+  - first:
+      213: 4786638229771501317
+    second: Basic_Platformer_SpriteSheet_36
+  - first:
+      213: -3101298485522501460
+    second: Basic_Platformer_SpriteSheet_37
+  - first:
+      213: 5471874499005961243
+    second: Basic_Platformer_SpriteSheet_38
+  - first:
+      213: 1738182259753593416
+    second: Basic_Platformer_SpriteSheet_39
+  - first:
+      213: -4956125233260725287
+    second: Basic_Platformer_SpriteSheet_40
+  - first:
+      213: 2898755885073223720
+    second: Basic_Platformer_SpriteSheet_41
+  - first:
+      213: -8396120525517878106
+    second: Basic_Platformer_SpriteSheet_42
+  - first:
+      213: 5225497394620526099
+    second: Basic_Platformer_SpriteSheet_43
+  - first:
+      213: 1269986253235392168
+    second: Basic_Platformer_SpriteSheet_44
+  - first:
+      213: -1167325325709164362
+    second: Basic_Platformer_SpriteSheet_45
+  - first:
+      213: -7864749246418954036
+    second: Basic_Platformer_SpriteSheet_46
+  - first:
+      213: 8996585267016803867
+    second: Basic_Platformer_SpriteSheet_47
+  - first:
+      213: 5054120297481060762
+    second: Basic_Platformer_SpriteSheet_48
+  - first:
+      213: -4935983031374947467
+    second: Basic_Platformer_SpriteSheet_49
+  - first:
+      213: 5089585140898354462
+    second: Basic_Platformer_SpriteSheet_50
+  - first:
+      213: -9144362554127146526
+    second: Basic_Platformer_SpriteSheet_51
+  - first:
+      213: 4517442709041483612
+    second: Basic_Platformer_SpriteSheet_52
+  - first:
+      213: -4244544814982722156
+    second: Basic_Platformer_SpriteSheet_53
+  - first:
+      213: -1437742988595058051
+    second: Basic_Platformer_SpriteSheet_54
+  - first:
+      213: -1639508608286621482
+    second: Basic_Platformer_SpriteSheet_55
+  - first:
+      213: 4470311490449832525
+    second: Basic_Platformer_SpriteSheet_56
+  - first:
+      213: -5427736105307156073
+    second: Basic_Platformer_SpriteSheet_57
+  - first:
+      213: -929961661440822993
+    second: Basic_Platformer_SpriteSheet_58
+  - first:
+      213: 4905297708979079832
+    second: Basic_Platformer_SpriteSheet_59
+  - first:
+      213: 959470210564370357
+    second: Basic_Platformer_SpriteSheet_60
+  - first:
+      213: -3419173750963580295
+    second: Basic_Platformer_SpriteSheet_61
+  - first:
+      213: 3543643308745800413
+    second: Basic_Platformer_SpriteSheet_62
+  - first:
+      213: -9077571965577073050
+    second: Basic_Platformer_SpriteSheet_63
+  - first:
+      213: -3131909717933022748
+    second: Basic_Platformer_SpriteSheet_64
+  - first:
+      213: 8220651072902807268
+    second: Basic_Platformer_SpriteSheet_65
+  - first:
+      213: -508647352978221346
+    second: Basic_Platformer_SpriteSheet_66
+  - first:
+      213: 7889400505692229716
+    second: Basic_Platformer_SpriteSheet_67
+  - first:
+      213: -8804269321133605787
+    second: Basic_Platformer_SpriteSheet_68
+  - first:
+      213: -3008803277162098308
+    second: Basic_Platformer_SpriteSheet_69
+  - first:
+      213: -6383051872182271069
+    second: Basic_Platformer_SpriteSheet_70
+  - first:
+      213: 5598349551011979245
+    second: Basic_Platformer_SpriteSheet_71
+  - first:
+      213: 8534107255635198938
+    second: Basic_Platformer_SpriteSheet_72
+  - first:
+      213: -3989984118300564589
+    second: Basic_Platformer_SpriteSheet_73
+  - first:
+      213: 515212309342739289
+    second: Basic_Platformer_SpriteSheet_74
+  - first:
+      213: -7219980099758899589
+    second: Basic_Platformer_SpriteSheet_75
+  - first:
+      213: -6452343083242468006
+    second: Basic_Platformer_SpriteSheet_76
+  - first:
+      213: 230194981197606263
+    second: Basic_Platformer_SpriteSheet_77
+  - first:
+      213: -2401900567245563651
+    second: Basic_Platformer_SpriteSheet_78
+  - first:
+      213: -7640123194931457158
+    second: Basic_Platformer_SpriteSheet_79
+  - first:
+      213: 7255035644270165396
+    second: Basic_Platformer_SpriteSheet_80
+  - first:
+      213: -7881263711372928655
+    second: Basic_Platformer_SpriteSheet_81
+  - first:
+      213: -5899440337015402775
+    second: Basic_Platformer_SpriteSheet_82
+  - first:
+      213: 1270423014536633404
+    second: Basic_Platformer_SpriteSheet_83
+  - first:
+      213: -5948847559175290107
+    second: Basic_Platformer_SpriteSheet_84
+  - first:
+      213: 7097247989214509888
+    second: Basic_Platformer_SpriteSheet_85
+  - first:
+      213: -8231160182721814120
+    second: Basic_Platformer_SpriteSheet_86
+  - first:
+      213: -2700303232055641679
+    second: Basic_Platformer_SpriteSheet_87
+  - first:
+      213: -6660113207897640151
+    second: Basic_Platformer_SpriteSheet_88
+  - first:
+      213: 7638320188852476268
+    second: Basic_Platformer_SpriteSheet_89
+  - first:
+      213: -8935832932239093296
+    second: Basic_Platformer_SpriteSheet_90
+  - first:
+      213: 2777268532294631465
+    second: Basic_Platformer_SpriteSheet_91
+  - first:
+      213: -7385083881846364191
+    second: Basic_Platformer_SpriteSheet_92
+  - first:
+      213: -7470214878871011383
+    second: Basic_Platformer_SpriteSheet_93
+  - first:
+      213: -940539841682867693
+    second: Basic_Platformer_SpriteSheet_94
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 240
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4b8f8852859e0b0800000000000000
+      internalID: -5698926935225617178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 240
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1dc20929c244c40800000000000000
+      internalID: 5495566453294551497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 240
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea8fde8e7338d990800000000000000
+      internalID: -7361076972281165079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 240
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622116661c7c06a80800000000000000
+      internalID: -8475554865251020250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 240
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf6266a34253b3c0800000000000000
+      internalID: -4345038764974641187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 240
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8bdf085eedcec90800000000000000
+      internalID: -7139086231996090132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 240
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7790a1287a2350810800000000000000
+      internalID: 1730845326817495415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 240
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6e040f54dfe9990800000000000000
+      internalID: -7377180662760937805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 240
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1d8aa7d7eca11d0800000000000000
+      internalID: -3379161532064018003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 240
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9def43fe687681d10800000000000000
+      internalID: 2096539455777472217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07230ece18ad759e0800000000000000
+      internalID: -1632596088338763152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 241
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77de4551fc65876b0800000000000000
+      internalID: -5298389514185282185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 223
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed2d3b426dddafb0800000000000000
+      internalID: -4634805027255538208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610df7a54c9a43610800000000000000
+      internalID: 1600090428420378646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 224
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b63cd824ccf5c200800000000000000
+      internalID: 199843677917165241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 224
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fcfc9c6a0658300800000000000000
+      internalID: 253715223482978202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 224
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdf014be4629cbe0800000000000000
+      internalID: -1456590885007327747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 224
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f8d8f3941e6ab80800000000000000
+      internalID: -8383765951588495531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609ea4dd9556aa8c0800000000000000
+      internalID: -3987263083443984122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 224
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c463bef7d0941330800000000000000
+      internalID: 3680726052834075843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 224
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cb1ba6e81df9a90800000000000000
+      internalID: -7304889660966060908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 228
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a1a0f748c00cf50800000000000000
+      internalID: 6899528392338184752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 225
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95076a25ca6797c0800000000000000
+      internalID: -4064662743626087010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 192
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d7493f683a283e0800000000000000
+      internalID: -2052898680119984784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 192
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc71df18411e9490800000000000000
+      internalID: -7737728108306793259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 192
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1665a479307033c70800000000000000
+      internalID: 8949504596519835233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 192
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f129ca1c901b6d540800000000000000
+      internalID: 5032404289095242271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 211
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1845630cf2aac4210800000000000000
+      internalID: 1318615912977683585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 208
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b06bd92776da8500800000000000000
+      internalID: 399367324267405495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 208
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ab34a03caaf92a0800000000000000
+      internalID: -6728471563600676262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3d71250170d3d90800000000000000
+      internalID: -7116524069497351184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 192
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be6427a842eb20e0800000000000000
+      internalID: -2293490783545430348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 192
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77102be5f4fda850800000000000000
+      internalID: 6390032783357515643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 195
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb327ff852ac187e0800000000000000
+      internalID: -1764907316274584641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3274604ae1a348cd0800000000000000
+      internalID: -2556854785164294365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 192
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e25f2ebf2ad21690800000000000000
+      internalID: -7632798519850478880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 195
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fb5d9fb1e8d6240800000000000000
+      internalID: 4786638229771501317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 197
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca079f37579f5f4d0800000000000000
+      internalID: -3101298485522501460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 197
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14d4c89dd000fb40800000000000000
+      internalID: 5471874499005961243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 178
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84aaf735e834f1810800000000000000
+      internalID: 1738182259753593416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 179
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbf429eb5e483bb0800000000000000
+      internalID: -4956125233260725287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 176
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820dc548e137a3820800000000000000
+      internalID: 2898755885073223720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 176
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac0429dddcfa7b80800000000000000
+      internalID: -8396120525517878106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 183
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ee51dc132b48840800000000000000
+      internalID: 5225497394620526099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 183
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae89b5c4c5ef9110800000000000000
+      internalID: 1269986253235392168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 176
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0c9cf0dc3dccfe0800000000000000
+      internalID: -1167325325709164362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 176
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc85da7ca3ccad290800000000000000
+      internalID: -7864749246418954036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 176
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16ac0862aa4adc70800000000000000
+      internalID: 8996585267016803867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 179
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a914377f1a7d32640800000000000000
+      internalID: 5054120297481060762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 177
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b5a8db59ddf7bb0800000000000000
+      internalID: -4935983031374947467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 180
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e155a5948b6d1a640800000000000000
+      internalID: 5089585140898354462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 162
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e12ed7b4b2b81180800000000000000
+      internalID: -9144362554127146526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 160
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f889d953e21be30800000000000000
+      internalID: 4517442709041483612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 162
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d8ab5baf85815c0800000000000000
+      internalID: -4244544814982722156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 160
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7aab7e8e5c1c0ce0800000000000000
+      internalID: -1437742988595058051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 167
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d081e47b9b4f39e0800000000000000
+      internalID: -1639508608286621482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 146
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4afb97ad9cb90e30800000000000000
+      internalID: 4470311490449832525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 144
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791da9405cecca4b0800000000000000
+      internalID: -5427736105307156073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 146
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21761bcbcc1813f0800000000000000
+      internalID: -929961661440822993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 144
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a4c35e64e131440800000000000000
+      internalID: 4905297708979079832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 130
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf2241b219b05d00800000000000000
+      internalID: 959470210564370357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 134
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972d97cc697ac80d0800000000000000
+      internalID: -3419173750963580295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 130
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddabb7470dc8d2130800000000000000
+      internalID: 3543643308745800413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 134
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66eebb0746cf50280800000000000000
+      internalID: -9077571965577073050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 128
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1220284b83984d0800000000000000
+      internalID: -3131909717933022748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 131
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee3ece889e951270800000000000000
+      internalID: 8220651072902807268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 118
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed65ac96debe0f8f0800000000000000
+      internalID: -508647352978221346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 118
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4509298c5f7cc7d60800000000000000
+      internalID: 7889400505692229716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 118
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c36fe03b3f0d580800000000000000
+      internalID: -8804269321133605787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 115
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71d8b95c559e36d0800000000000000
+      internalID: -3008803277162098308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 112
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a30faf1428da67a0800000000000000
+      internalID: -6383051872182271069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 112
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def598c514551bd40800000000000000
+      internalID: 5598349551011979245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 33
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5130994, y: 0.49999958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad34837555d3f6670800000000000000
+      internalID: 8534107255635198938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 92
+        width: 50
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393ae31959ab0a8c0800000000000000
+      internalID: -3989984118300564589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 48
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b584a9dd6662700800000000000000
+      internalID: 515212309342739289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 76
+        width: 50
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e3b743a5a7dcb90800000000000000
+      internalID: -7219980099758899589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 48
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d426ad62ca476a0800000000000000
+      internalID: -6452343083242468006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d6c53ad11d13300800000000000000
+      internalID: 230194981197606263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 56
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8d48fe82cbaaed0800000000000000
+      internalID: -2401900567245563651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7353edee64d8f590800000000000000
+      internalID: -7640123194931457158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d3589ca701fa460800000000000000
+      internalID: 7255035644270165396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 40
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1799076496020a290800000000000000
+      internalID: -7881263711372928655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 24
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee0692254af02ea0800000000000000
+      internalID: -5899440337015402775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 56
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cdfef200371a110800000000000000
+      internalID: 1270423014536633404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 64
+        width: 29
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5130994, y: 0.49999958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503486cc9a2717da0800000000000000
+      internalID: -5948847559175290107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 31
+        width: 28
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5130994, y: 0.49999958}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b7cff717d7e7260800000000000000
+      internalID: 7097247989214509888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 240
+        width: 17
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5130994, y: 0.49999958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891e683ac6b05cd80800000000000000
+      internalID: -8231160182721814120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 208
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9fb7b6488968ad0800000000000000
+      internalID: -2700303232055641679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923bf5ff2568293a0800000000000000
+      internalID: -6660113207897640151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c691f310eb3c00a60800000000000000
+      internalID: 7638320188852476268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 243
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1d6adca4b8df380800000000000000
+      internalID: -8935832932239093296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920ca49f307da8620800000000000000
+      internalID: 2777268532294631465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 32
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7a51a5659e28990800000000000000
+      internalID: -7385083881846364191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 32
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf3e058527745890800000000000000
+      internalID: -7470214878871011383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Platformer_SpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31af3674ff782f2f0800000000000000
+      internalID: -940539841682867693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
